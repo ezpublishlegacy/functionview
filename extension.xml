@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>functionview extension</name>
+        <version>1.0.0 beta</version>
+        <info_url>https://github.com/ezsystems/ezjscore</info_url>
+    </metadata>
+    <dependencies>
+    </dependencies>
+</software>
