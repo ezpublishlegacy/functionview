@@ -3,7 +3,7 @@
     <metadata>
         <name>functionview extension</name>
         <version>1.0.0 beta</version>
-        <info_url>https://github.com/ezsystems/ezjscore</info_url>
+        <info_url>git@github.com:ThinkCreative/functionview.git</info_url>
     </metadata>
     <dependencies>
     </dependencies>
