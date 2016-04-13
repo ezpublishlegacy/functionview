@@ -1,4 +1,4 @@
-<?
+<?php
 
 $tpl = eZTemplate::factory();
 
